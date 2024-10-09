@@ -1,2 +1,17 @@
-# Satisfying-Fluid-Dynamics
-Description: Immerse yourself in a captivating world of fluid dynamics with our interactive WebGL simulation. Experience mesmerizing visuals as colorful fluids flow and blend seamlessly, creating a satisfying spectacle. Perfect for relaxation and exploration, this simulation showcases the beauty of fluid mechanics in a stunning digital environment.
+# WebGL Fluid Simulation
+
+[Play here](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
+
+<img src="/screenshot.jpg?raw=true" width="880">
+
+## References
+
+http://developer.download.nvidia.com/books/HTML/gpugems/gpugems_ch38.html
+
+https://github.com/mharrys/fluids-2d
+
+https://github.com/haxiomic/GPU-Fluid-Experiments
+
+## License
+
+The code is available under the [MIT license](LICENSE)
